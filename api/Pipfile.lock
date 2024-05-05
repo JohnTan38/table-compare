@@ -166,7 +166,7 @@
                 "sha256:fde50062d67d805bc96f1a9ecc0d37bfc2a8f02b937d2c50824d186aa91f2419"
             ],
             "index": "pypi",
-            "version": "==1.21.2"
+            "version": "==1.20.0"
         },
         "pandas": {
             "hashes": [
